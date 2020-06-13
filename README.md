@@ -1,2 +1,5 @@
 # mi-app
-xiaomi
+xiaomi.  
+Basic layout presentation.  
+Drop-down box display.  
+Return to top function. 
